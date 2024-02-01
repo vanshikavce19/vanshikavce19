@@ -4,7 +4,7 @@
 - 🌱 I’m currently pursuing DSA in C++.
 - 📫 How to reach me ...LinkedIn-www.linkedin.com/in/vanshika-rajput-aaa920227
 
-- Author - Vanshika Rajput
+
 
 <!---
 vanshikavce19/vanshikavce19 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
