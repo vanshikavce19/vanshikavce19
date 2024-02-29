@@ -1,8 +1,9 @@
 - 👋 Hi, I’m Vanshika Rajput.
-- 💞️ I have keen interest in C++ and I also have basic knowlege of Python, Core Java, SQL, HTML.
+- ✨ I am a Web developer.
+- 🌱 I have a good foundation in HTML, CSS, JavaScript, React.js and Node.js.
+- 💞️ I have keen interest in C++ and I also have basic knowlege of Python.
 - 👀 I’m looking for opportunity where i can learn and enhance my skills and knowledge.
-- 🌱 I’m currently pursuing DSA in C++.
-- 📫 How to reach me ...LinkedIn-www.linkedin.com/in/vanshika-rajput-aaa920227
+- 📫 How to reach me.....https://linktr.ee/vanshikaraj11 
 
 
 
